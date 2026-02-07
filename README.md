@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-fourth-root-eps/tags). For example,
+
+```javascript
 import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@v0.1.1-deno/mod.js';
 ```
 
@@ -65,7 +70,7 @@ var bool = ( FLOAT32_FOURTH_ROOT_EPS === 0.018581360578536987 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@v0.1.1-deno/mod.js';
+import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@deno/mod.js';
 
 var out = FLOAT32_FOURTH_ROOT_EPS;
 // returns 0.018581360578536987
