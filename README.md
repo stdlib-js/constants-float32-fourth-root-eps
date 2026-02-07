@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@esm/index.mjs';
+import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT32_FOURTH_ROOT_EPS
@@ -70,7 +70,7 @@ var bool = ( FLOAT32_FOURTH_ROOT_EPS === 0.018581360578536987 );
 <body>
 <script type="module">
 
-import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@esm/index.mjs';
+import FLOAT32_FOURTH_ROOT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-root-eps@v0.1.1-esm/index.mjs';
 
 var out = FLOAT32_FOURTH_ROOT_EPS;
 // returns 0.018581360578536987
